@@ -15,11 +15,11 @@ A todos los apartados se puede acceder mediante un menú de navegación en la pa
 >- Formularios Web
 
 Algunos ejemplos específicos del uso de CSS en la práctica son:
--Menú de navegación por las páginas (ver parte superior)
--Botón que cambia de color al pasar el cursor sobre él (ver botón "Hazte cliente" en la página principal)
--Tablas cuyas filaa cambian de color al pasar el cursor (ver cuentacero.html)
--Bordes/Marcos en los vídeos insertados (ver cultura.html)
+- Menú de navegación por las páginas (ver parte superior)
+- Botón que cambia de color al pasar el cursor sobre él (ver botón "Hazte cliente" en la página principal)
+- Tablas cuyas filaa cambian de color al pasar el cursor (ver cuentacero.html)
+- Bordes/Marcos en los vídeos insertados (ver cultura.html)
 
 Además, para el formulario de registro se ha utilizado JavaScript para el "envío" de datos (ventana pop-up).
--Ver registro.js --> en este fichero se han utilizado funciones de validación de campos del formulario, regular
+- Ver registro.js --> en este fichero se han utilizado funciones de validación de campos del formulario, regular
 expressions de JavaScript para validar un email...
