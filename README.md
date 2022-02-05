@@ -14,10 +14,14 @@ A todos los apartados se puede acceder mediante un menú de navegación en la pa
 >- Multimedia
 >- Formularios Web
 
-Algunos ejemplos específicos del uso de CSS en la práctica son:
+Algunos ejemplos específicos del uso de elementos HTML y CSS en la práctica son:
+- Headings en casi todas las páginas
+- Párrafos de información
+- Formulario para contacto con el banco
+- Vídeos de YouTube insertados e imágenes
 - Menú de navegación por las páginas (ver parte superior)
 - Botón que cambia de color al pasar el cursor sobre él (ver botón "Hazte cliente" en la página principal)
-- Tablas cuyas filaa cambian de color al pasar el cursor (ver cuentacero.html)
+- Tabla de información cuyas filas cambian de color al pasar el cursor (ver cuentacero.html)
 - Bordes/Marcos en los vídeos insertados (ver cultura.html)
 
 También se han usado links a otras páginas (ver parte de abajo de la página principal --> link a Instagram)
