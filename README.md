@@ -20,6 +20,8 @@ Algunos ejemplos específicos del uso de CSS en la práctica son:
 - Tablas cuyas filaa cambian de color al pasar el cursor (ver cuentacero.html)
 - Bordes/Marcos en los vídeos insertados (ver cultura.html)
 
+También se han usado links a otras páginas (ver parte de abajo de la página principal --> link a Instagram)
+
 Además, para el formulario de registro se ha utilizado JavaScript para el "envío" de datos (ventana pop-up).
 - Ver registro.js --> en este fichero se han utilizado funciones de validación de campos del formulario, regular
 expressions de JavaScript para validar un email...
