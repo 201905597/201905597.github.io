@@ -19,6 +19,14 @@
 			background-color: white;
   			color: #345AB7;
 		}
+
+		input[type=text] {
+			width:50%;
+			padding: 10px 15px;
+			border:none;
+			background-color:#DBDDE4;
+			color:black;
+		}
 	</style>
 </head>
 <body>
@@ -33,13 +41,13 @@
 			<h1>Hazte cliente de BBVA</h1>
 			<h2>Rellena tus datos y te enviaremos la información necesaria</h2>
 			<div class="field">
-				<label for="name">Nombre:</label>
-				<input type="text" id="name" name="name" placeholder="Introduce tu nombre:" />
+				<label for="name">Nombre:</label><br>
+				<input type="text" id="name" name="name" placeholder="Introduce tu nombre" />
 				<small></small>
 			</div>
 			<div class="field">
-				<label for="email">Email:</label>
-				<input type="text" id="email" name="email" placeholder="Introduce tu correo electrónico:" />
+				<label for="email">Email:</label><br>
+				<input type="text" id="email" name="email" placeholder="Introduce tu correo electrónico" />
 				<small></small> <!--Se usa la etiqueta small para mostrar un mensaje de error si el input tiene datos no válidos-->
 			</div>
 			<div class="field">
